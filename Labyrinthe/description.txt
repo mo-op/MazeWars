@@ -1,0 +1,1 @@
+Two automated points moving across a maze
